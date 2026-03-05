@@ -1,5 +1,5 @@
 # Aplicación de Nuevas Tecnologías
 
 ## Entregas
-- [Primera Entrega: tp01.md](./tp01.md)
+- [TP1 — Productos Reales con Machine Learning](./tp01.md)
 
